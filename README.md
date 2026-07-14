@@ -22,7 +22,7 @@ The project was developed using Python and focuses on uncovering meaningful insi
 ---
 
 ## 📂 Dataset
-
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 The dataset contains information about multiple countries over several years, including:
 
 - Country
